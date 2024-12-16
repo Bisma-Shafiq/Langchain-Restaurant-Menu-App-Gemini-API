@@ -1,5 +1,5 @@
 # Restaurant Menu Item GenAI App
-# Restaurant Name & Menu Generator
+
 
 This project leverages **Google Generative AI (Gemini-1.5)** and the **LangChain** framework to create a dynamic application that generates:
 
