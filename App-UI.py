@@ -8,5 +8,5 @@ if cuisine:
     response = langchain_helper.generature_items(cuisine)
     st.header(response['restaurant_name'])
     menu_item = response['menu_item'].split(" ,")
-    st.write("## Menu Items## ")
+    st.write("Menu Items")
 
